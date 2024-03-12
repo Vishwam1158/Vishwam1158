@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <!--
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there, I’m Vishwam Zadafiya :
+# 👋 Hey there,  I’m Vishwam Zadafiya :
 I'm the 3rd Year of Computer Engineering Student who thrives on learning new things and building cool stuff! <br>I have experience in frontend development, and I'm currently diving into the world of Kotlin. <br>Furthermore, I'm always up for a challenge and love to collaborate with others.
 
 
